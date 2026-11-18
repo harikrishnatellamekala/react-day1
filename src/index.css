@@ -1,0 +1,45 @@
+*{
+
+  text-align: center;
+  background-color: white;
+  
+}
+
+.head{
+ 
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 40px;
+
+
+
+}
+
+
+.rulz{
+
+   border: 3px solid #d4d400;
+  border-radius: 16px;
+  max-width: 550px;
+  margin: 0 auto;
+  padding: 30px 40px;
+  color: #61dafb; 
+}
+
+.img{
+   width: 80px;
+  height: auto;
+}
+
+h2{
+  color: #6cc644; /* Green heading color */
+  font-size: 2rem;
+  margin: 0;
+}
+
+ul{
+   font-size: 1.1rem;
+  line-height: 1.8;
+  padding-left: 25px;
+}
